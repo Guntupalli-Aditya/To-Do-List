@@ -13,7 +13,7 @@ This is a simple To-Do List application developed for Android using Java and SQL
 - **Add Notes**: Include additional details for tasks by adding notes.
 
 ## Technologies Used
-- **Java**: Primary programming language used for Android app development.
+- **Kotlin**: Primary programming language used for Android app development.
 - **Android Studio**: Integrated Development Environment (IDE) used for Android app development.
 - **SQLite**: Lightweight relational database management system used for local data storage.
 
@@ -26,19 +26,15 @@ This is a simple To-Do List application developed for Android using Java and SQL
 ## Screenshots
 ToDoList App Screenshot
 
-(![Screenshot 2025-02-20 153255](https://github.com/user-attachments/assets/1674493e-3e1e-41b4-ba73-ef5f3478185f))
+![Screenshot 2025-03-16 195313](https://github.com/user-attachments/assets/f0b5f3aa-102b-4849-86da-35b94928c6f5)
 
 
 Add List
 
-(![Screenshot 2025-02-20 153138](https://github.com/user-attachments/assets/bf626332-b5d2-4366-ace0-a85364ea812b))
+(![Screenshot 2025-03-16 195245](https://github.com/user-attachments/assets/34133365-f7ca-4ea3-8ec0-030a0c65055e))
 
 
 Delete Task
 
-(![Screenshot 2025-02-20 153302](https://github.com/user-attachments/assets/6f670854-9882-4309-b833-1f0699289bff))
+(![Screenshot 2025-03-16 195324](https://github.com/user-attachments/assets/5c4e0d2a-cb08-44c5-8e24-5e3244a2fd3b))
 
-
-Full Usaage
-
-https://github.com/user-attachments/assets/f4828aa6-b20a-45ab-af67-4b6a6e16e4c2
